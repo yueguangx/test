@@ -12,9 +12,6 @@ conda activate HGNet
 pip install -r requirements.tx
 ```
 
-
-
-
 # Dataset Preparation
 
 To train and evaluate the HGNet model, it's essential to organize your dataset in the COCO format. Below are the steps to prepare your dataset:
@@ -24,11 +21,11 @@ To train and evaluate the HGNet model, it's essential to organize your dataset i
 Organize your dataset with the following structure:
 
 ```plaintext
-coco/
-├── images/
+coco
+├── images
 │   ├── train2017
 │   └── val2017
-└── labels/
+└── labels
     ├── train2017
     └── val2017
 ```
