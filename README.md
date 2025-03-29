@@ -8,7 +8,7 @@ git clone https://github.com/yueguangx/HGNet.git
 cd HGNet
 conda create -n HGNet python=3.8
 conda activate HGNet
-pip install -r requirements.txt'''
+pip install -r requirements.txt```
 
 #Dataset Preparation
 To train and evaluate the HGNet model, it's essential to organize your dataset in the COCO format. Below are the steps to prepare your dataset:
