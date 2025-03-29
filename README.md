@@ -26,10 +26,10 @@ Organize your dataset with the following structure:
 ```plaintext
 coco/
 ├── images/
-│   ├── train2017/
-│   └── val2017/
+│   ├── train2017
+│   └── val2017
 └── labels/
-    ├── train2017/
-    └── val2017/
+    ├── train2017
+    └── val2017
 ```
 
