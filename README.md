@@ -15,7 +15,8 @@ pip install -r requirements.tx
 
 
 
-#Dataset Preparation
+# Dataset Preparation
+
 To train and evaluate the HGNet model, it's essential to organize your dataset in the COCO format. Below are the steps to prepare your dataset:
 
 Directory Structure:
