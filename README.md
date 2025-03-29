@@ -24,12 +24,11 @@ Directory Structure:
 Organize your dataset with the following structure:
 
 plaintext
-复制
-编辑
-├── coco
-│   ├── images
-│   │   ├── train2017
-│   │   └── val2017
-│   └── labels
-│       ├── train2017
-│       └── val2017
+coco
+├── images
+│   ├── train2017
+│   └── val2017
+└── labels
+    ├── train2017
+    └── val2017
+
